@@ -1,0 +1,1 @@
+# php8.2-palcon5-docker
